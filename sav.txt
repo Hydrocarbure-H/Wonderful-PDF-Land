@@ -1,0 +1,41 @@
+== Fichier de sauvegarde de la taille des marges == 
+700
+0
+1300
+1400
+0
+0
+1300
+1400
+Angle #Pas activé par défaut
+90
+270
+
+Anciens chiffres utiles
+#1 - Manuel Pompiers
+20 --> x
+370 --> y
+1165 --> Width
+1690 --> Height
+460
+370
+1185
+1690
+#2 - Procédure Prud'hommale
+0
+110
+1150
+1470
+0
+105
+1100
+1470
+#3 - Sécurité Civile
+1000
+0
+1300
+1600
+0
+0
+1300
+1590
